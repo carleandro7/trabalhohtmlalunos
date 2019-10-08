@@ -8,8 +8,8 @@
 
 	<nav id="menu">
 	    <ul>
-	        <li><a href="#">Principal</a></li>
-	       
+	        <li><a href="index.php">Início</a></li>
+	        <li><a href="quemsomos.php">Quem Somos</a></li>	       
 	    </ul>
 
     
